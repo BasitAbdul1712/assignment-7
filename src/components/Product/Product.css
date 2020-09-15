@@ -9,7 +9,7 @@
     
 }
 .product:hover{
-    background-color:rgb(228, 226, 226);
+    box-shadow: 0 5px 8px 0 rgb(179, 154, 135);
 }
 
 .details{

@@ -4,7 +4,7 @@
       "index": 0,
       "title": "Python and Django Full Stack Web Developer Bootcamp",
       "details": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
-      "balance": 10.3498,
+      "balance": 10.34,
       "picture": "https://img-a.udemycdn.com/course/100x100/822444_a6db.jpg",
       "age": 27
     },
@@ -13,7 +13,7 @@
       "index": 1,
       "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
       "details": "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",
-      "balance": 10.1781,
+      "balance": 10.17,
       "picture": "https://img-a.udemycdn.com/course/100x100/1026604_790b_2.jpg",
       "age": 21
     },
@@ -22,7 +22,7 @@
       "index": 2,
       "title": "Python and Django Full Stack Web Developer Bootcamp",
       "details": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
-      "balance": 10.8361,
+      "balance": 10.83,
       "picture": "https://img-a.udemycdn.com/course/100x100/822444_a6db.jpg",
       "age": 23
     },
@@ -31,7 +31,7 @@
       "index": 3,
       "title": "The Python Mega Course: Build 10 Real World Applications",
       "details": "TA complete Python course for both beginners and intermediates! Master Python 3 by making 10 amazing Python apps.",
-      "balance": 10.5295,
+      "balance": 10.52,
       "picture": "https://img-a.udemycdn.com/course/100x100/692188_9da7_13.jpg",
       "age": 22
     },
@@ -40,7 +40,7 @@
       "index": 4,
       "title": "The Complete JavaScript Course 2020: Build Real Projects!",
       "details": "Master JavaScript with the most complete course! Projects, challenges, quizzes, JavaScript ES6+, OOP, AJAX, Webpack",
-      "balance": 10.7665,
+      "balance": 10.76,
       "picture": "https://img-a.udemycdn.com/course/100x100/851712_fc61_5.jpg",
       "age": 21
     },
@@ -49,7 +49,7 @@
       "index": 5,
       "title": "AWS Certified Solutions Architect - Associate 2020",
       "details": "Want to pass the AWS Solutions Architect - Associate Exam? Want to become Amazon Web Services Certified? Do this course!",
-      "balance": 11.9297,
+      "balance": 11.92,
       "picture": "https://img-a.udemycdn.com/course/100x100/362328_91f3_10.jpg",
       "age": 23
     },
@@ -58,7 +58,7 @@
       "index": 6,
       "title": "The Complete SQL Bootcamp 2020: Go from Zero to Hero",
       "details": "Become an expert at SQL!",
-      "balance": 11.2723,
+      "balance": 11.27,
       "picture": "https://img-a.udemycdn.com/course/100x100/762616_7693_3.jpg",
       "age": 22
     },
@@ -67,7 +67,7 @@
       "index": 7,
       "title": "The Web Developer Bootcamp",
       "details": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
-      "balance": 10.8101,
+      "balance": 10.81,
       "picture": "https://img-a.udemycdn.com/course/100x100/625204_436a_2.jpg",
       "age": 37
     },
@@ -76,7 +76,7 @@
       "index": 8,
       "title": "Python for Data Science and Machine Learning Bootcamp",
       "details": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
-      "balance": 11.734,
+      "balance": 11.73,
       "picture": "https://img-a.udemycdn.com/course/100x100/903744_8eb2.jpg",
       "age": 30
     },
@@ -85,7 +85,7 @@
       "index": 9,
       "title": "2020 Complete Python Bootcamp: From Zero to Hero in Python",
       "details": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!      ",
-      "balance": 10.4229,
+      "balance": 10.42,
       "picture": "https://img-a.udemycdn.com/course/100x100/567828_67d0.jpg",
       "age": 29
     },
@@ -94,7 +94,7 @@
       "index": 10,
       "title": "Build Responsive Real World Websites with HTML5 and CSS3      ",
       "details": "The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch. Design AND code a huge project.      ",
-      "balance": 10.338,
+      "balance": 10.33,
       "picture": "https://img-a.udemycdn.com/course/240x135/437398_46c3_9.jpg",
       "age": 25
     },
@@ -103,7 +103,7 @@
       "index": 11,
       "title": "Automate the Boring Stuff with Python Programming      ",
       "details": "A practical programming course for office workers, academics, and administrators who want to improve their productivity.      ",
-      "balance": 11.5036,
+      "balance": 11.56,
       "picture": "https://img-a.udemycdn.com/course/240x135/543600_64d1_4.jpg",
       "age": 20
     }

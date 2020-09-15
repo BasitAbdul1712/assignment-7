@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import udemy from './Data.json'
 import './Data.css'
 import Product from '../Product/Product';
+import Cart from '../Cart/Cart';
 
 const Data = () => {
     const first4 = udemy.slice(0,5);
@@ -44,8 +45,7 @@ const Data = () => {
             </div>
         </div>
         <div className="cart-container">
-                <h1>This is cart</h1>
-                <h5>Order Summery: {cart.length}</h5>
+           <Cart cart={cart}></Cart> 
         </div>
     </div>
         
