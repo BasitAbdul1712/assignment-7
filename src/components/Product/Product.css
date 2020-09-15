@@ -1,0 +1,37 @@
+.product{
+    
+    margin: 10px;
+    padding: 5px 5px 100px 15px; 
+
+    height: 400px;
+    width: 250px;
+    /* display:flex; */
+    
+}
+.product:hover{
+    background-color:rgb(228, 226, 226);
+}
+
+.details{
+    text-decoration: none;
+    color: rgb(129, 125, 125);
+}
+.product img{
+    border: 1px solid rgb(100, 100, 100);
+    border-radius:10px;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ffe799;
+    color: #593d00;
+    display: inline-block;
+    font-family: 'SF Pro Display',-apple-system,BlinkMacSystemFont,Roboto,'Segoe UI',Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: -0.02rem;
+    font-size: 1.2rem;
+}
