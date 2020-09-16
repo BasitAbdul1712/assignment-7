@@ -1,17 +1,15 @@
 .product{
-    
-    margin: 10px;
-    padding: 5px 5px 100px 15px; 
+    margin: 15px;
+    padding: 10px 30px 95px 10px; 
 
-    height: 400px;
+    height: 360px;
     width: 250px;
     /* display:flex; */
-    
+   
 }
 .product:hover{
     box-shadow: 0 5px 8px 0 rgb(179, 154, 135);
 }
-
 .details{
     text-decoration: none;
     color: rgb(129, 125, 125);
@@ -21,7 +19,7 @@
     border-radius:10px;
 }
 .button{
-    width: 100px;
+    width: 200px;
     height: 30px;
     border: 1px solid darkblue;
     border-radius: 5px;
